@@ -1,0 +1,23 @@
+
+ Neccesary packages to install : 
+								1. tkinter
+								2. playsound
+								3. threading
+								4. cv2
+								5. numpy
+								6. os
+								7. time
+								8. face_recognition
+								9. subprocess
+								10. random 
+								11. datetime
+								12. pyautogui
+								13. sys
+								14. smtplib
+								15. email
+								16. urllib
+								
+ install by using pip command : 
+			pip install <package_name>	
+						OR		
+			pip3 install <package_name>
